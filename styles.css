@@ -50,3 +50,7 @@ nav {
     border-radius: 50px;
     color: white;
 }
+
+.nav__link--anchor-primary:hover {
+    background-color: #5d3eff;
+}
